@@ -115,9 +115,7 @@ DictFile.close()
 
 
 ### notes on fr dict layout
-
-##"ZoneGram"
-##article.find_all('div',{"class":"ZoneGram"})
+##article.find_all('div',{"class":"ZoneGram"}) is the grammatical zone marker for gender, etc.  May be integrated into program later.
 
                          
                          
